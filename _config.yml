@@ -185,12 +185,16 @@ sidebar:
 
 
 # Blogrolls
-# links_title: My Friends
+links_title: My Friends
 # links_layout: block
-# links_layout: inline
-# links:
-#   kouyun.me: http://kouyun.me
-#   testudy.cc: http://testudy.cc
+links_layout: inline
+links:
+    寇云: http://kouyun.me
+    胡继伟: http://testudy.cc
+    尹杰: http://yj1438.github.io/
+    曹楠: https://github.com/cnsnake11/blog
+    武明礼: http://www.ushtml.com/
+    占友伟: http://zhanyouwei.com/
 
 
 # ---------------------------------------------------------------

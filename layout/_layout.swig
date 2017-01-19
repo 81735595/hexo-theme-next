@@ -12,7 +12,9 @@
 </head>
 
 <body itemscope itemtype="http://schema.org/WebPage" lang="{{ page.lang || page.language || config.language }}">
-
+	<div style='margin:0 auto;display:none;'>
+		<img src="/images/avatar.png" alt="投身烈火" />
+	</div>
   {% include '_scripts/third-party/analytics.swig' %}
 
   {% set container_class = "container one-collumn " %}
